@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "nice!view") (type "KiCad") (uri "${KIPRJMOD}/nice.kicad_sym") (options "") (descr ""))
+)
