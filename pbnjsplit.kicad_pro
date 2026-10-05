@@ -648,21 +648,13 @@
         "uuid": "6e266ec3-d1c5-4089-9f05-9a1351aa12d0"
       }
     ],
-    "used_designators": "H1-16,J1-4,#PWR1-14,D1-44,SW1-44,#FLG1-4,U1-6",
+    "used_designators": "H1-16,J1-4,#PWR1-22,C1-44,D1-88,SW1-44,#FLG1-4,U1-6",
     "variants": []
   },
   "sheets": [
     [
       "6e266ec3-d1c5-4089-9f05-9a1351aa12d0",
       "pbnjsplit"
-    ],
-    [
-      "445cff1f-286b-4e63-a3ff-b34d2028e4c4",
-      "left"
-    ],
-    [
-      "61852bbc-8583-4786-a078-4dfe3b366d86",
-      "right"
     ]
   ],
   "text_variables": {},

@@ -360,7 +360,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "side.kicad_sch"
+		(property "Sheetfile" "sheets/side.kicad_sch"
 			(at 33.02 56.4646 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -406,7 +406,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "side.kicad_sch"
+		(property "Sheetfile" "sheets/side.kicad_sch"
 			(at 105.41 57.7346 0)
 			(show_name no)
 			(do_not_autoplace no)

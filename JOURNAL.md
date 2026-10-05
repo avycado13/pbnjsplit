@@ -16,3 +16,9 @@ I made my schematic using a hierarchical sheet for the left and the right side. 
 ![Main Sheet](images/pbnjsplit-2a.png)
 ![Subsheet](images/pbnjsplit-2b.png)
 **Total time spent: 2h**
+
+# Oct 4: Added LED Backlights to Each Side
+I added a chain of SK6812 LEDs in a subsheet to each side. For each LED, I added 1 100nF decoupling capacitor between +5v and GND that I will place right next to the LEDs. Each LED will be mounted on the south side of the key so that it doesn't interfere with the switch. I considered doing an underglow but then realized that It would not work as well with a case.
+
+![LED Sheet](images/pbnjsplit-3.png)
+**Total time spent: 1h**
